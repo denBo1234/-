@@ -1,3 +1,3 @@
-# -HPC-2022
-# - Samedov Deniz 6132
+# HPC-2022
+# Samedov Deniz 6132
 
